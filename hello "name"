@@ -1,0 +1,5 @@
+// JavaScript program to ask the user for his name and say hello
+// Prompt the user for his name
+let name = prompt('Enter your name: ');
+// Display a greeting message
+alert('Hello, ' + name + '!');
